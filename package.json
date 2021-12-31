@@ -1,0 +1,14 @@
+{
+  "name": "openai-prompt-toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit for building, testing, and versioning LLM prompts with evaluation metrics",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
